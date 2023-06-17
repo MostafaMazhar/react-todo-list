@@ -8,6 +8,7 @@ export default function App() {
         <label htmlFor="item">New Item</label>
         <input type="text" id="item" />
       </div>
+      <button className="btn">Add</button>
     </form>
   );
 }
