@@ -137,20 +137,20 @@ body {
 
 .list li:has(input:checked) label:hover::before {
   background: hsl(200, 100%, 30%);
+}
+/* .rounded-button {
+  border-radius: 70%;
+  
+} */
 
-
-
-
-
-
-/* #root {
+/* 
+#root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-} */
+}
 
-/* 
 .logo {
   height: 6em;
   padding: 1.5em;
